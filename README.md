@@ -49,10 +49,6 @@ It aims to enhance **human-computer interaction** by enabling systems to underst
 
 ---
 
-## Used
-`Python` | `OpenCV` | `TensorFlow` | `Machine Learning` | `Deep Learning` | `Computer Vision` | `Model Deployment`
-
----
  
 
 
